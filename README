@@ -1,0 +1,29 @@
+Acme-BBaxter-Tests version 0.01
+===============================
+
+This is an empty module.  It exists solely to submit tests to the
+CPAN testers.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install (but don't bother)
+
+DEPENDENCIES
+
+use Carp;
+
+COPYRIGHT AND LICENCE
+
+Put the correct copyright and licence information here.
+
+Copyright (C) 2008 by Brad Baxter
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.8 or,
+at your option, any later version of Perl 5 you may have available.
+

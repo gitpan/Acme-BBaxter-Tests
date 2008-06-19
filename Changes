@@ -1,0 +1,7 @@
+Revision history for Perl extension Acme::BBaxter::Tests.
+
+0.01  Wed Jun 18 10:21:33 2008
+    - added test Acme-BBaxter-Tests-0.01.t
+    - original version; created by h2xs 1.23 with options
+        -AX --skip-exporter --use-new-tests -n Acme::BBaxter::Tests -b 5.8.3
+
